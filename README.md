@@ -1,0 +1,1 @@
+An image processing and data visualization tool built with Python, OpenCV, and Matplotlib. This project demonstrates how to manipulate digital image matrices using bitwise masking (cv2.bitwise_and) to isolate a specific region of interest (ROI) and extract a 256-channel grayscale brightness distribution graph via histogram analysis (cv2.calcHist).
